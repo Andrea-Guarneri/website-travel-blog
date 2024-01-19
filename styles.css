@@ -16,6 +16,7 @@ ul {
     border-radius: 60px;
     padding: 5px;
 
+
 }
 
 
@@ -53,8 +54,10 @@ ul {
 
 }
 
+/* Logo Homepage */
+
 .logo img {
-    border: 10px solid;
+    border: 5px solid;
     border-radius: 10px;
     color: #fc036b;
     width: 40%;
@@ -158,6 +161,8 @@ section {
 
 img {
     width: 500px;
+    border-radius: 8px;
+    border: #fc036b solid 2px;
 }
 
 .events .row {
@@ -204,7 +209,7 @@ p {
 }
 
 .explore-content h1 {
-    font-size: 7vmin;
+    font-size: 6vmin;
     margin: 50px;
 }
 
@@ -231,16 +236,18 @@ p {
 }
 
 .tours .image-gallery {
-    display: flex;
-    flex-wrap: wrap;
+    display: inline;
     width: 100%;
     align-items: center;
 
 }
 
 .image-gallery img {
-    max-width: 300px;
+    max-width: 400px;
     margin: 10px;
+    border-radius: 8px;
+    border: #fc036b solid 2px;
+
 
 }
 
@@ -265,16 +272,24 @@ p {
 /* Videos tours section */
 
 .video-content {
-    border: 5px solid #fc036b;
-    border-radius: 20px;
-    display: flex;
     padding: 10px;
+    display: flex;
     align-items: center;
+    border-radius: 8px;
+    border: #fc036b solid 2px;
 
 }
 
 .video-setting {
     padding: 20px;
+
+}
+
+.different-landscapes {
+    font-size: 3vmin;
+    color: #484872;
+    margin: 20px auto;
+    text-align: center;
 }
 
 /* Footer section */
@@ -296,10 +311,28 @@ p {
 
 /* Tours page  */
 
-.tour-content {
-    padding: 70px;
+.tour-content img {
     align-items: center;
+    display: inline;
+    border-radius: 8px;
+    border: #fc036b solid 2px;
 
+}
+
+.images-gallery {
+    padding-top: 80px;
+
+}
+
+.ctn-tour {
+    margin-top: 30px;
+}
+
+/* Explore page  */
+
+.explore-video {
+    padding: 100px;
+    
 }
 
 
