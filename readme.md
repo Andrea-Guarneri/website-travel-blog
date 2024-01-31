@@ -26,4 +26,4 @@ Footer: Find information about the creator and the copyright year.
 
 ## Usage
 
-To view the Adventure Travel Blog, simply open the HTML file in a web browser. The website is designed to be responsive, providing an optimal viewing experience across different devices.
+To view the Adventure Travel Blog, simply open the HTML file in a web browser. 
