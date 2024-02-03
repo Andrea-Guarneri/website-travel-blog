@@ -26,4 +26,4 @@ Footer: Find information about the creator and the copyright year.
 
 ## Usage
 
-To view the Adventure Travel Blog, simply open the HTML file in a web browser. 
+You can access the page directly via this link: https://adventuretravelblog.netlify.app
